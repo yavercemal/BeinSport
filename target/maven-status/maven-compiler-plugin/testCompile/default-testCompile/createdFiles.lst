@@ -1,0 +1,8 @@
+base\BasePage.class
+connection\InternetConnection.class
+pages\Subscribe.class
+pages\RecurringPayment.class
+pages\CreateAccount.class
+pages\HomePage.class
+pages\Basket.class
+test\SubscribeTest.class
