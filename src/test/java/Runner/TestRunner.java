@@ -5,5 +5,4 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 
 @CucumberOptions(features = "src/test/java/features", glue = {"pages"})
 public  class TestRunner extends AbstractTestNGCucumberTests {
- 
 }
